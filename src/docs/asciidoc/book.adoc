@@ -1,0 +1,6 @@
+= My Book
+
+include::part1.adoc[]
+include::part2.adoc[]
+
+The end.

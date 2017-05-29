@@ -1,0 +1,12 @@
+:source-highlighter: highlightjs
+
+= Hello World in Java
+
+Here's how you write a Hello World in Java:
+
+[source,java,indent=0]
+----
+include::../../main/java/me/loki2302/HelloWorldApp.java[tag=main]
+----
+
+The end.

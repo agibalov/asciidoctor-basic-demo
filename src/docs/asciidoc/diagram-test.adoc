@@ -1,0 +1,14 @@
+= Hard to explain
+
+Some things are really hard to explain.
+
+[plantuml, hamburgers, png]
+----
+@startuml
+repeat
+  :Eat a hamburger;
+repeat while (Want more?)
+@enduml
+----
+
+The end.
